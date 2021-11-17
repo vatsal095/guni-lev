@@ -1,0 +1,23 @@
+{
+  "name": "guni-lev",
+  "version": "1.0.0",
+  "description": "G-UNI Arb opportunity ",
+  "main": "app.js",
+  "repository": "https://github.com/vatsal095/guni-lev.git",
+  "author": "vatsal",
+  "license": "MIT",
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.1",
+    "hardhat": "^2.6.8",
+    "@makerdao/dai": "^0.32.13",
+    "@makerdao/dai-plugin-mcd": "^1.6.35",
+    "@studydefi/money-legos": "^2.4.1",
+    "@types/node": "^14.14.35",
+    "dotenv": "^8.2.0",
+    "ethers-typescript-typings": "0.0.4"
+  }
+}
