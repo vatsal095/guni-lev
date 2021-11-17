@@ -1,0 +1,11 @@
+{
+    "mainnet": {
+        "Dai": {
+            "DaiJoin": "0x9759a6ac90977b93b58547b4a71c78317f391a28"
+        },
+        "GUNI": {
+            "GUNI-Address": "0xabddafb225e10b90d798bb8a886238fb835e2053",
+            "Arb_GUNI" : "0xf30cE3B3564D0D12b1B240013299c7f12Fd5bd0f"
+        }
+    }
+}
